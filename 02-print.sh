@@ -14,7 +14,7 @@ echo -e "\e[COLm MESSAGE \e[0m"
 #Cyan     36
 
 # \e[0m - zero code is going to reset the color. If we enable color for sure we need to disable, Otherwise color will continue on the screen
-
+#we can use double quotes / single quotes, However double quotes are preferred
 echo Hello World
 echo -e "\e[31mHello in Red Color\e[0m"
 

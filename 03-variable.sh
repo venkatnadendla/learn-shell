@@ -7,4 +7,4 @@ echo "Hello, Good Morning, Today date is ${DATE}"
 
 #Arthimetic operations
 ADD=$((2+3))
-echo "Addition of 2+3 = $(ADD)"
+echo "Addition of 2+3 = ${ADD}"
